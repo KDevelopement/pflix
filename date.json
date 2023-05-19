@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "cover": "https://pbs.twimg.com/media/FNabcnsWUAI4Uw6.jpg:large",
+        "name": "Herdeiros da Noite",
+        "url": "https://souapenasumsitenormal.com/player/tv/93842/{temporada}/{episodio}/dub",
+        "date": [
+            {"max_eps": 13 },
+            {"max_eps": 13 }
+        ],
+        "status": true
+    }
+]
